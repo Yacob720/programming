@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=pos\ descr\ ptr
+comment0.target=PipelineNode(int,\ java.lang.String,\ PipelineNode)
+numComments=1

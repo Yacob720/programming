@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=millage
+comment0.target=Automobile(double)
+comment1.params=gal
+comment1.target=void\ fillUp(double)
+comment2.params=miles
+comment2.target=void\ takeTrip(double)
+comment3.params=
+comment3.target=double\ reportFuel()
+numComments=4

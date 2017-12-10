@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Circle(double)
+comment1.params=
+comment1.target=double\ area()
+comment2.params=
+comment2.target=double\ circumference()
+comment3.params=nr
+comment3.target=void\ setRadius(double)
+comment4.params=
+comment4.target=double\ diameter()
+numComments=5

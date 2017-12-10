@@ -1,0 +1,25 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=535
+package.editor.height=321
+package.editor.width=437
+package.editor.x=1002
+package.editor.y=41
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.editor.height=619
+target1.editor.width=808
+target1.editor.x=1069
+target1.editor.y=260
+target1.height=50
+target1.name=Tester
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=70
+target1.y=10

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getSlope()
+comment1.params=
+comment1.target=double\ getYintercept()
+comment2.params=
+comment2.target=double\ getRoot()
+comment3.params=x
+comment3.target=double\ getYvalue(double)
+comment4.params=y
+comment4.target=double\ getXvalue(double)
+numComments=5
